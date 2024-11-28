@@ -31,4 +31,4 @@ Kullanıcılar, öğrenciler ve öğretim görevlileri ekleyebilir, ders oluştu
 </ol>
 
 <h1>🎯 Amaç</h1>
-<p>Bu proje, C# dilinde nesne yönelimli programlama becerilerini geliştirmek ve temel yapı taşlarını pekiştirmek amacıyla tasarlanmıştır. Sistem, dinamik bir yapı üzerine kurulmuş olup, gerçek hayattaki yönetim ihtiyaçlarına yönelik bir simülasyon sunar.</p>
+<p>Bu proje, Piri Reis Üniversitesi'nde almış olduğum Görsel Programlama dersinin vize projesidir. Sistem, dinamik bir yapı üzerine kurulmuş olup, gerçek hayattaki yönetim ihtiyaçlarına yönelik bir simülasyon sunar.</p>
